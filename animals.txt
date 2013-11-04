@@ -6,6 +6,9 @@ pedobear
 space invader
 pacman
 pikatchu
+bar
+poisiroi
+magicarp
 pig
 oie
 poulet
