@@ -6,3 +6,6 @@ pedobear
 space invader
 pacman
 pikatchu
+HO-HO
+Lugia
+Articodain
