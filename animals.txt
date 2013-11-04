@@ -1,3 +1,8 @@
 chèvre
 poney
 phoque
+rat
+licorne
+pedobear
+space invader
+pacman
