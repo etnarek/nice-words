@@ -5,3 +5,4 @@ licorne
 pedobear
 space invader
 pacman
+pikatchu
